@@ -1,3 +1,8 @@
 Archivo para la asesoria - Irving Espinosa
 Parrafo #2 en amin
 Parrafo #3 en main
+
+Parrafo #1 en user2
+Parrafo #2 en user2
+Parrafo #3 en user2
+Parrafo #1 en user3
